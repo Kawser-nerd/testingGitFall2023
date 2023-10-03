@@ -1,4 +1,4 @@
 # testingGitFall2023
 
-### Testing purpose
-<p> THis page is editing because of testing purpose</p>
+### Testing purpose Developer 2
+<p> THis branch is now the property of developer 1</p>
